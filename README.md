@@ -1,2 +1,2 @@
 # Open-with-nearpod
-context menu item to open a nearpod code in the nearpod website
+This is a very simple chrome extension that adds a right click context menu item when selected text is highlighted. it then opens up the nearpod.com website and automatically enters the presentation. Mainly for my own use but feel free to use it if you want to.
